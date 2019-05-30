@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13bd02bd-43e4-46d4-9edf-24c2ab5f2267" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/vtlib/HTML/README.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.inc.php" afterPath="$PROJECT_DIR$/config.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Project/SummaryViewWidgets.tpl" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Project/SummaryViewWidgets.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Project/SummaryWidgets.tpl" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Project/SummaryWidgets.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/CustomerPortal/Index.tpl" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/CustomerPortal/Index.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/SMSNotifier/EditView.tpl" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/SMSNotifier/EditView.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/SMSNotifier/ProviderEditFields.tpl" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/SMSNotifier/ProviderEditFields.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/SMSNotifier/TextAnyWhereEditField.tpl" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/SMSNotifier/TextAnyWhereEditField.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/SMSNotifier/resources/List.js" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/SMSNotifier/resources/List.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/Webforms/ShowForm.tpl" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/Webforms/ShowForm.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/Webforms/resources/Detail.js" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/Webforms/resources/Detail.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/Webforms/resources/List.js" afterPath="$PROJECT_DIR$/layouts/vlayout/modules/Settings/Webforms/resources/List.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parent_tabdata.php" afterPath="$PROJECT_DIR$/parent_tabdata.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tabdata.php" afterPath="$PROJECT_DIR$/tabdata.php" />
-    </list>
+    <list default="true" id="13bd02bd-43e4-46d4-9edf-24c2ab5f2267" name="Default" comment="" />
     <ignored path="vtiger_testTable.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -141,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559190720543</updated>
-      <workItem from="1559190721638" duration="1872000" />
+      <workItem from="1559190721638" duration="2662000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1559198438425</created>
@@ -154,7 +139,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1872000" />
+    <option name="totallyTimeSpent" value="2662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
